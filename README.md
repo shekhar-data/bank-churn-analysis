@@ -101,5 +101,5 @@ Churn is driven by engagement and product gaps, not financial risk.
 | Pivot Tables | Report building across 7 business dimensions |
 | Conditional Formatting | Visual churn rate indicators across all reports |
 
-## Project File
-📊 [Download Excel Workbook]([your-github-file-link-here](https://github.com/shekhar-data/bank-churn-analysis/raw/1e139247dad88c87dbb60419d31c5d3cd5376d31/Bank-Customer-Churn-Analysis.xlsx))
+## 📁 Project File
+[Download Excel Workbook](https://github.com/shekhar-data/bank-churn-analysis/raw/1e139247dad88c87dbb60419d31c5d3cd5376d31/Bank-Customer-Churn-Analysis.xlsx)
